@@ -1,0 +1,11 @@
+.bg-primary-color {
+    background: #FFFBF0;
+    
+}
+
+.primary-text-color {
+    color: #f9804b
+}
+.btn-color{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
